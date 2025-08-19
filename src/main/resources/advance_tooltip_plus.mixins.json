@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"minVersion": "0.8",
+	"package": "farn.AdvanceTooltip.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"client": [
+    "InventoryMenuScreenMixin",
+    "GuiElementAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
